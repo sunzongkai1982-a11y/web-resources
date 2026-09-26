@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sunzongkai1982-a11y.github.io/web-resources/sitemap.txt
