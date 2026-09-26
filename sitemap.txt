@@ -1,6 +1,11 @@
 https://sunzongkai1982-a11y.github.io/web-resources/index.html
-https://sunzongkai1982-a11y.github.io/web-resources/xiaosuanshi.html
-https://sunzongkai1982-a11y.github.io/web-resources/portraze.html
-https://sunzongkai1982-a11y.github.io/web-resources/pettriage.html
-https://sunzongkai1982-a11y.github.io/web-resources/softlystill.html
 https://sunzongkai1982-a11y.github.io/web-resources/cathaybound.html
+https://sunzongkai1982-a11y.github.io/web-resources/pettriage.html
+https://sunzongkai1982-a11y.github.io/web-resources/portraze.html
+https://sunzongkai1982-a11y.github.io/web-resources/softlystill.html
+https://sunzongkai1982-a11y.github.io/web-resources/xiaosuanshi.html
+https://sunzongkai1982-a11y.github.io/web-resources/xiaosuanshi-natal-chart.html
+https://sunzongkai1982-a11y.github.io/web-resources/portraze-teams.html
+https://sunzongkai1982-a11y.github.io/web-resources/pettriage-human-medicine.html
+https://sunzongkai1982-a11y.github.io/web-resources/softlystill-which-session.html
+https://sunzongkai1982-a11y.github.io/web-resources/cathaybound-choosing-cities.html
