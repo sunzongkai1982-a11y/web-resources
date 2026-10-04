@@ -14,3 +14,8 @@ https://sunzongkai1982-a11y.github.io/web-resources/portraze-headshot-variants.h
 https://sunzongkai1982-a11y.github.io/web-resources/pettriage-kitchen-table.html
 https://sunzongkai1982-a11y.github.io/web-resources/softlystill-three-minutes.html
 https://sunzongkai1982-a11y.github.io/web-resources/cathaybound-when-to-go.html
+https://sunzongkai1982-a11y.github.io/web-resources/xiaosuanshi-bazi-missing-element.html
+https://sunzongkai1982-a11y.github.io/web-resources/portraze-profession-differences.html
+https://sunzongkai1982-a11y.github.io/web-resources/pettriage-houseplants.html
+https://sunzongkai1982-a11y.github.io/web-resources/softlystill-wrong-practice.html
+https://sunzongkai1982-a11y.github.io/web-resources/cathaybound-train-or-fly.html
